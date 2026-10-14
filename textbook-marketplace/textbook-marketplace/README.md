@@ -62,3 +62,4 @@ vercel dev
 
 Rate limiting (e.g. Vercel Firewall or Upstash), automatic database backups (Neon provides branches/PITR),
 and student-email verification.
+
